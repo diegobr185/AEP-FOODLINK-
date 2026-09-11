@@ -190,8 +190,8 @@ FOODLINK_AEP/
 │   ├── script_banco.sql
 │   └── modelagem_der.sql
 ├── src/
-│   ├── controller/
 │   ├── model/
+│   ├── controller/
 │   └── view/
 └── README.md
 ```
