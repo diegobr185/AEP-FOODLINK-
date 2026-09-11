@@ -370,8 +370,8 @@ git commit -m "docs: atualiza README"
 | ----------------------- | --------------------------------------------------- | ----------- |
 | 08/09/2026 – 12/09/2026 | Levantamento do problema, stakeholders e requisitos | Diego B      |
 | 14/09/2026 – 18/09/2026 | Definição do escopo, regras de negócio e ODS        | Diego B      |
-| 21/09/2026 – 25/09/2026 | Modelagem UML e DER                                 | Ruan V      |
-| 28/09/2026 – 02/10/2026 | Configuração do repositório e estrutura inicial     | Ruan V      |
+| 21/09/2026 – 25/09/2026 | Modelagem UML e DER                                 | Ruan G      |
+| 28/09/2026 – 02/10/2026 | Configuração do repositório e estrutura inicial     | Ruan G      |
 | 05/10/2026 – 16/10/2026 | Implementação do backend e banco de dados           | Arthur M     |
 | 19/10/2026 – 30/10/2026 | Implementação do frontend e integração              | Arthur M      |
 | 02/11/2026 – 13/11/2026 | Testes, correções e documentação                    | Equipe      |
@@ -507,7 +507,7 @@ A segunda entrega exige código-fonte completo, script do banco, aplicação dos
 | Integrante | Função          |
 | ---------- | --------------- |
 | Diego Brito    | Banco de dados e interfaces |
-| Ruan Venturelli  | Modelagem POO |
+| Ruan Gabriel  | Modelagem POO |
 | Arthur Morales  |  Backend (CRUD e persistência) |
 
 
