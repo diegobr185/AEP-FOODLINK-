@@ -506,9 +506,9 @@ A segunda entrega exige código-fonte completo, script do banco, aplicação dos
 
 | Integrante | Função          |
 | ---------- | --------------- |
-| Aluno 1    | Diego Brito |
-| Aluno 2    | Ruan Venturelli |
-| Aluno 3    | Arthur Morales |
+| Diego Brito    | Banco de dados e interfaces |
+| Ruan Venturelli  | Modelagem POO |
+| Arthur Morales  |  Backend (CRUD e persistência) |
 
 
 
