@@ -382,12 +382,12 @@ git commit -m "docs: atualiza README"
 
 | Data                    | Atividade                                           | Responsável |
 | ----------------------- | --------------------------------------------------- | ----------- |
-| 08/09/2026 – 12/09/2026 | Levantamento do problema, stakeholders e requisitos | Equipe      |
-| 14/09/2026 – 18/09/2026 | Definição do escopo, regras de negócio e ODS        | Equipe      |
-| 21/09/2026 – 25/09/2026 | Modelagem UML e DER                                 | Equipe      |
-| 28/09/2026 – 02/10/2026 | Configuração do repositório e estrutura inicial     | Equipe      |
-| 05/10/2026 – 16/10/2026 | Implementação do backend e banco de dados           | Equipe      |
-| 19/10/2026 – 30/10/2026 | Implementação do frontend e integração              | Equipe      |
+| 08/09/2026 – 12/09/2026 | Levantamento do problema, stakeholders e requisitos | Diego B      |
+| 14/09/2026 – 18/09/2026 | Definição do escopo, regras de negócio e ODS        | Diego B      |
+| 21/09/2026 – 25/09/2026 | Modelagem UML e DER                                 | Ruan V      |
+| 28/09/2026 – 02/10/2026 | Configuração do repositório e estrutura inicial     | Ruan V      |
+| 05/10/2026 – 16/10/2026 | Implementação do backend e banco de dados           | Arthur M     |
+| 19/10/2026 – 30/10/2026 | Implementação do frontend e integração              | Arthur M      |
 | 02/11/2026 – 13/11/2026 | Testes, correções e documentação                    | Equipe      |
 
 O guia da AEP define o cronograma/backlog como parte do planejamento e solicita datas, atividades/stories e responsáveis.
@@ -524,7 +524,7 @@ A segunda entrega exige código-fonte completo, script do banco, aplicação dos
 | Aluno 2    | Ruan Venturelli |
 | Aluno 3    | Arthur Morales |
 
-> Substituir pelos nomes reais dos integrantes da equipe.
+
 
 ---
 
