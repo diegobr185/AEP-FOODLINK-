@@ -164,15 +164,10 @@ A arquitetura foi escolhida para facilitar:
 
 | Tecnologia          | Utilização                                       |
 | ------------------- | ------------------------------------------------ |
-| **Java 21**         | Desenvolvimento do Backend                       |
-| **Spring Boot 3**   | Framework do Backend e APIs REST                 |
-| **Spring Security** | Autenticação e segurança                         |
+| **Java   **         | Desenvolvimento do Backend                       |
 | **PostgreSQL**      | Banco de dados                                   |
-| **PostGIS**         | Consultas e operações relacionadas à localização |
 | **React**           | Desenvolvimento do Frontend                      |
 | **TypeScript**      | Tipagem e desenvolvimento do Frontend            |
-| **Docker**          | Containerização                                  |
-| **Docker Compose**  | Integração dos ambientes                         |
 
 As tecnologias foram escolhidas para atender aos requisitos de autenticação, ofertas, consultas por localização, reservas, logística e indicadores.
 
