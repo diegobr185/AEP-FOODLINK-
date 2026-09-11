@@ -181,33 +181,19 @@ As tecnologias foram escolhidas para atender aos requisitos de autenticação, o
 # 📂 Estrutura do projeto
 
 ```text
-foodlink-core/
-│
-├── src/
-│   │
-│   ├── backend/
-│   │   ├── controller/
-│   │   ├── service/
-│   │   ├── repository/
-│   │   ├── model/
-│   │   └── dto/
-│   │
-│   └── frontend/
-│       ├── components/
-│       ├── pages/
-│       └── services/
-│
+FOODLINK_AEP/
 ├── docs/
-│   ├── diagrama-classes/
-│   └── der/
-│
+│   ├── Diagrama_Classe_FOODLINK.png
+│   ├── DER_FOODLINK.png
+│   └── Entrega_Bimestre_1.pdf
 ├── database/
-│   ├── migrations/
-│   └── scripts/
-│
-├── README.md
-│
-└── docker-compose.yml
+│   ├── script_banco.sql
+│   └── modelagem_der.sql
+├── src/
+│   ├── controller/
+│   ├── model/
+│   └── view/
+└── README.md
 ```
 
 A estrutura segue a organização definida para o repositório na primeira entrega.
