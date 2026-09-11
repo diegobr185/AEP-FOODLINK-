@@ -421,9 +421,9 @@ A segunda entrega exige código-fonte completo, script do banco, aplicação dos
 
 # 📄 Projeto Acadêmico
 
-**Projeto Integrador — AEP 4º Semestre**
+**Projeto Bimestral — AEP 4º Semestre**
 
-**Curso:** Engenharia de Software / Análise e Desenvolvimento de Sistemas
+**Curso:** Engenharia de Software
 
 **Projeto:** FoodLink — Plataforma Inteligente de Redução de Desperdício Alimentar e Logística Solidária
 
