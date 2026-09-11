@@ -164,10 +164,9 @@ A arquitetura foi escolhida para facilitar:
 
 | Tecnologia          | Utilização                                       |
 | ------------------- | ------------------------------------------------ |
-| **Java   **         | Desenvolvimento do Backend                       |
+| **Java**            | Desenvolvimento do Backend                       |
 | **PostgreSQL**      | Banco de dados                                   |
 | **React**           | Desenvolvimento do Frontend                      |
-| **TypeScript**      | Tipagem e desenvolvimento do Frontend            |
 
 As tecnologias foram escolhidas para atender aos requisitos de autenticação, ofertas, consultas por localização, reservas, logística e indicadores.
 
@@ -216,95 +215,6 @@ database/
 ```
 
 O projeto deve utilizar um banco de dados real para persistência das informações, conforme exigido pela AEP.
-
----
-
-# ▶️ Como executar o projeto
-
-> **Observação:** esta seção será atualizada conforme a implementação do sistema avançar.
-
-## 1. Pré-requisitos
-
-Antes de executar o projeto, instale:
-
-* Java 21;
-* Maven;
-* Node.js;
-* PostgreSQL;
-* PostGIS;
-* Docker;
-* Docker Compose;
-* Git.
-
----
-
-## 2. Clonar o repositório
-
-```bash
-git clone https://github.com/foodlink-project/foodlink-core.git
-```
-
-Entre na pasta:
-
-```bash
-cd foodlink-core
-```
-
----
-
-## 3. Executar o banco de dados
-
-Com o Docker instalado, execute:
-
-```bash
-docker compose up -d
-```
-
-Isso iniciará o ambiente do banco de dados definido no projeto.
-
----
-
-## 4. Executar o Backend
-
-Entre na pasta do backend:
-
-```bash
-cd src/backend
-```
-
-Execute a aplicação utilizando o Maven:
-
-```bash
-./mvnw spring-boot:run
-```
-
-No Windows, caso necessário:
-
-```bash
-mvnw.cmd spring-boot:run
-```
-
----
-
-## 5. Executar o Frontend
-
-Em outro terminal:
-
-```bash
-cd src/frontend
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-Depois execute:
-
-```bash
-npm run dev
-```
 
 ---
 
@@ -363,13 +273,13 @@ git commit -m "docs: atualiza README"
 
 | Data                    | Atividade                                           | Responsável |
 | ----------------------- | --------------------------------------------------- | ----------- |
-| 08/09/2026 – 12/09/2026 | Levantamento do problema, stakeholders e requisitos | Diego B      |
-| 14/09/2026 – 18/09/2026 | Definição do escopo, regras de negócio e ODS        | Diego B      |
-| 21/09/2026 – 25/09/2026 | Modelagem UML e DER                                 | Ruan G      |
-| 28/09/2026 – 02/10/2026 | Configuração do repositório e estrutura inicial     | Ruan G      |
-| 05/10/2026 – 16/10/2026 | Implementação do backend e banco de dados           | Arthur M     |
-| 19/10/2026 – 30/10/2026 | Implementação do frontend e integração              | Arthur M      |
-| 02/11/2026 – 13/11/2026 | Testes, correções e documentação                    | Equipe      |
+| 06/09/2026 – 07/09/2026 | Levantamento do problema, stakeholders e requisitos | Diego       |
+| 07/09/2026 – 08/09/2026 | Definição do escopo, regras de negócio e ODS        | Diego       |
+| 09/09/2026 – 11/09/2026 | Modelagem UML e DER                                 | Ruan       |
+| 10/09/2026 – 11/10/2026 | Configuração do repositório e estrutura inicial     | Ruan e Diego      |
+| A Definir | Implementação do backend e banco de dados           | Arthur      |
+| A Definir | Implementação do frontend e integração              | Arthur e Diego      |
+| A Definir | Testes, correções e documentação                    | Equipe      |
 
 O guia da AEP define o cronograma/backlog como parte do planejamento e solicita datas, atividades/stories e responsáveis.
 
