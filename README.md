@@ -2,11 +2,7 @@
 
 ### Plataforma Inteligente de Redução de Desperdício Alimentar e Logística Solidária
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
-[![Java](https://img.shields.io/badge/Java-21-orange)]()
-[![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-3-green)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS-blue)]()
-[![React](https://img.shields.io/badge/React-TypeScript-61DAFB)]()
+
 
 ---
 
@@ -524,9 +520,9 @@ A segunda entrega exige código-fonte completo, script do banco, aplicação dos
 
 | Integrante | Função          |
 | ---------- | --------------- |
-| Aluno 1    | Desenvolvimento |
-| Aluno 2    | Desenvolvimento |
-| Aluno 3    | Desenvolvimento |
+| Aluno 1    | Diego Brito |
+| Aluno 2    | Ruan Venturelli |
+| Aluno 3    | Arthur Morales |
 
 > Substituir pelos nomes reais dos integrantes da equipe.
 
