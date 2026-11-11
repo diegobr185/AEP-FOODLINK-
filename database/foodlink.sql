@@ -1,7 +1,6 @@
 -- =====================================================================
 -- FoodLink - Script ÚNICO do banco de dados
--- SGBD: PostgreSQL 12+  (nos testes automatizados roda em H2 modo PostgreSQL)
--- Uso:  psql -U postgres -d foodlink -f database/foodlink.sql
+-- SGBD: PostgreSQL 12+
 -- Contém: 6 tabelas + 1 view + dados de exemplo (senha de todos: 1234)
 -- =====================================================================
 
